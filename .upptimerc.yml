@@ -19,7 +19,7 @@ status-website:
   name: Tigefa Status
   navbar:
     - title: Status
-      href: /
+      href: https://tigefa.win
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
