@@ -4,7 +4,7 @@
     "url": "https://tigefa.win",
     "icon": "https://favicons.githubusercontent.com/tigefa.win",
     "slug": "tigefa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,17 +15,19 @@
     "timeWeek": 154,
     "timeMonth": 196,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Status",
     "url": "https://status.tigefa.win",
     "icon": "https://favicons.githubusercontent.com/status.tigefa.win",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
@@ -33,6 +35,8 @@
     "timeWeek": 410,
     "timeMonth": 268,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   }
 ]
