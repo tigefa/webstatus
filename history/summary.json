@@ -4,11 +4,11 @@
     "url": "https://tigefa.win",
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.win.ico",
     "slug": "tigefa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 226,
@@ -16,7 +16,7 @@
     "timeMonth": 209,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-02-07": 8,
+      "2023-02-07": 1,
       "2022-09-15": 37
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://status.tigefa.win",
     "icon": "https://icons.duckduckgo.com/ip3/status.tigefa.win.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 200,
     "timeDay": 146,
@@ -37,7 +37,7 @@
     "timeMonth": 397,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2023-02-07": 8,
+      "2023-02-07": 1,
       "2022-09-15": 37
     }
   }
