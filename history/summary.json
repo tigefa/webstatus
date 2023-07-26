@@ -4,9 +4,9 @@
     "url": "https://tigefa.win",
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.win.ico",
     "slug": "tigefa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 197,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2022-09-15": 37
     }
   },
@@ -26,7 +27,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 193,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2022-09-15": 37
     }
   }
