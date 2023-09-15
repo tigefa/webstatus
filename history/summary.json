@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 218,
-    "timeWeek": 171,
-    "timeMonth": 223,
+    "timeDay": 264,
+    "timeWeek": 201,
+    "timeMonth": 221,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2022-09-15": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status",
@@ -31,12 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 500,
-    "timeWeek": 195,
-    "timeMonth": 197,
-    "timeYear": 263,
-    "dailyMinutesDown": {
-      "2022-09-15": 37
-    }
+    "timeDay": 312,
+    "timeWeek": 230,
+    "timeMonth": 199,
+    "timeYear": 262,
+    "dailyMinutesDown": {}
   }
 ]
