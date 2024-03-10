@@ -4,27 +4,29 @@
     "url": "https://tigefa.win",
     "icon": "https://icons.duckduckgo.com/ip3/tigefa.win.ico",
     "slug": "tigefa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
+    "time": 227,
     "timeDay": 80,
     "timeWeek": 124,
     "timeMonth": 213,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "Status",
     "url": "https://status.tigefa.win",
     "icon": "https://icons.duckduckgo.com/ip3/status.tigefa.win.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 226,
     "timeMonth": 223,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   }
 ]
